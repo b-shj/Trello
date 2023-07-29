@@ -5,9 +5,9 @@ A Full Stack clone of Trello with the __MERN__ stack (MongoDB/Express/React/Node
 Trello Clone is a fully functioning task management Web App. The App supports personal Task Boards, allowing 
 simple and organized task tracking that separates overarching goals or topics from specific tasks. Trello Clone
 has both a minimal and clean UI that promotes well organized tasking.
-Landing Page             
-:-------------------------:
-![](https://dl.dropboxusercontent.com/s/1kfggoalknf4nfq/Trello%20Landing%20Page.png?dl=0)
+Landing Page             |  Main App
+:-------------------------:|:-------------------------:
+![](https://dl.dropboxusercontent.com/s/1kfggoalknf4nfq/Trello%20Landing%20Page.png?dl=0)  |  ![](https://www.dropbox.com/s/5t32ikhzlihbzcx/Screenshot%20%2818%29.png?dl=0)
 
 ## Features
 * UI written in modern __React__, using ES6 principles and functional components with React Hooks
