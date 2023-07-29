@@ -7,7 +7,8 @@ simple and organized task tracking that separates overarching goals or topics fr
 has both a minimal and clean UI that promotes well organized tasking.
 Landing Page             |  Main App
 :-------------------------:|:-------------------------:
-![](https://dl.dropboxusercontent.com/s/1kfggoalknf4nfq/Trello%20Landing%20Page.png?dl=0)  |  ![](https://www.dropbox.com/s/5t32ikhzlihbzcx/Screenshot%20%2818%29.png?dl=0)
+![](https://dl.dropboxusercontent.com/s/1kfggoalknf4nfq/Trello%20Landing%20Page.png?dl=0)  |  ![](https://github.com/b-shj/Trello/assets/81804438/d547fee6-d4c7-451d-bd9c-092ae805fb6f)
+
 
 ## Features
 * UI written in modern __React__, using ES6 principles and functional components with React Hooks
